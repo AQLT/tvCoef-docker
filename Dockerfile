@@ -1,5 +1,5 @@
 # Base image
-FROM inseefrlab/onyxia-rstudio:4.2.2
+FROM inseefrlab/onyxia-rstudio:r4.2.2
 
 # Install required linux librairies
 RUN apt-get update --yes && \
