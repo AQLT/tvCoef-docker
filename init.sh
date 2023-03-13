@@ -1,2 +1,2 @@
 #!/bin/sh
-git clone https://github.com/AQLT/testDocker.git
+git clone https://github.com/AQLT/AteliertvCoef.git
